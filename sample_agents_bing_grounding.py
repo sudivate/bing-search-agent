@@ -115,7 +115,7 @@ def save_conversation_to_markdown(conversation_history, run_details_list):
 
 ### Search Status
 - **Bing Search Used**: {'✅ YES' if search_used else '❌ NO'}
-- **Search Calls**: {search_calls}
+- **Search Calls**: {search_calls}lat
 - **Compliance**: {'COMPLIANT' if search_used else 'NON-COMPLIANT'}
 
 ### User Input
