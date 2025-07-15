@@ -122,7 +122,9 @@ def save_conversation_to_markdown(conversation_history, run_details_list):
 {user_input}
 
 ### Agent Response
+```json
 {agent_response}
+```
 
 ### Citations
 """
